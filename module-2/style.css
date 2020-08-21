@@ -19,6 +19,7 @@ h3 {
 h2 {
 	text-align: center;
 	margin-bottom: 15px;
+	font-weight: bold;
 
 }
 #div1 {
@@ -38,7 +39,8 @@ div div {
 	border: 1px solid black;
 	/*padding: 5px;*/
 	margin: 2%;
-	background-color: #ffe6b3;
+	padding-left: 10px;
+	background-color: #404080;
 	/*margin: 4px ;*/
 
 }
@@ -51,8 +53,8 @@ p {
 	}
 @media (min-width: 992px) {
   .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
-    float: left;
-    border: 1px solid green;
+    /*float: left;*/
+    
   }
   .col-lg-1 {
     width: 8.33%;
@@ -95,8 +97,8 @@ p {
 /********** Medium devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
-    float: left;
-    border: 1px solid green;
+    /*float: left;*/
+    
   }
   .col-md-1 {
     width: 8.33%;
