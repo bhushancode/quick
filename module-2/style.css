@@ -5,14 +5,13 @@
 	box-sizing: border-box;
 }
 h3 {
-	text-align: right;
+	text-align: center;
 	margin: 0;
 	padding: 3px;
 	border: 1px solid black;
 	box-shadow: grey;
 	background-color: red;
-	width: fit-content;
-	/*display: inline;*/
+	width: 200px;
 	border-bottom-width: 1px solid black;
 	float: right;
 }

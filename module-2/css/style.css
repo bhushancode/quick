@@ -9,10 +9,10 @@ h3 {
   font-size: 1.5em;
   
   width: 150px;
-	text-align: right;
+	text-align: center;
 	padding: 3px;
 	border: 1px solid black;
-	width: fit-content;
+	width: 100px;
 	border-bottom-width: 1px solid black;
 	float: right;
 }
@@ -46,8 +46,9 @@ div div {
 
 }
 p {
-  padding-top: 10px;
+  padding-top: 20px;
 	width: 90%;
+  text-align: justify;
 
 }
 .row {
