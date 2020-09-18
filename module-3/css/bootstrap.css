@@ -4302,7 +4302,10 @@ input[type="button"].btn-block {
 .tab-content > .tab-pane {
   display: none;
 }
+.sec {
+  margin-bottom: 15px;
 
+}
 .tab-content > .active {
   display: block;
 }
