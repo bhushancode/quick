@@ -1,8 +1,48 @@
 
+.nav-link {
+	
+	text-align: center;
+}
+
+.heading_1 
+{
+	text-align: center;
+}
+
+#title_1 {
+	text-align: center;
+	font-size: 30px;
+}
+
+#para {
+	background-color: #808080;
+	text-align: justify;
+}
+
+
+
+
+
+
+
+
+
 
 .navbar {
 	padding-right: 0px; 
+	background-color: #832080;
+	font-weight: bold;
+	border-left: 2px;
+	border-right: 2px;
+	border-top: 2px;
+	border-bottom: 2px;
+	text-align: center;
+
 }
+.navbar-toggler {
+	background-color: #325224;
+}
+
 
 .navbar .container-fluid {
 	padding: 0px;
@@ -14,7 +54,7 @@
 	height: 1000px;
 	background-color: #808080;
 }
-.container-fluid #title-1 {
+/*.container-fluid #title-1 {
 	margin: 0px;
 	padding: 10px;
 	text-align: center;
@@ -30,7 +70,7 @@
 }
 .fluid-width h2 {
 	text-align: center;
-}
+}*/
 /*/ Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) { ... }
 
